@@ -1,7 +1,7 @@
 // Personalize this file before sharing the site. Placeholder values are intentional.
 export const CONFIG = {
   herName: 'Saanvi', nickname: 'Euphoria', playlistTitle: 'euphoria ♡',
-  spotifyPlaylistUrl: 'https://open.spotify.com/playlist/6kRcmmTbpVC7hVkKuN7F0k?si=b93d978e76e84066', coverPath: '/assets/euphoria-cover.png',
+  spotifyPlaylistUrl: 'https://open.spotify.com/playlist/6kRcmmTbpVC7hVkKuN7F0k?si=b93d978e76e84066', coverPath: './assets/euphoria-cover.png',
   challengeBQuestions: [{ question: "Which artist made the song ‘Redbone’?", options: ['Nirvana', 'Childish Gambino', 'The Neighbourhood', 'Beach House'], answerIndex: 1 }],
   challengeCWord: 'EUPHORIA',
   challengeC: {
